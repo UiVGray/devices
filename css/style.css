@@ -16,6 +16,8 @@
 .device__block {
     max-width: 555px;
     padding: 75px 35px;
+    background: linear-gradient(257.26deg, #008BF0 -13.2% #D943C9 130.95%);
+    border: 1px solid #00000004;
 }
 
 .device__subtitle {
